@@ -1,9 +1,9 @@
-git init .				-> cira um repositório git na pasta tual
-git status				-> mostra o status do trabalho (de cada arquivo)
-git add <nome arquivo>	-> adiciona arquivo para ser comitado
-git commit -m			-> faz o commit do que estava para ser comitado
-git log					-> mostra todo o histórico de commit
-git diff <nome arquivo>	-> mostra o que foi adicionado ou removido do arquivo desde o último commit
+git init .		-> Cira um repositório git na pasta tual
+git status		-> Mostra o status do trabalho (de cada arquivo)
+git add <nome arquivo>	-> Adiciona arquivo para ser comitado
+git commit -m		-> Faz o commit do que estava para ser comitado
+git log			-> Mostra todo o histórico de commit
+git diff <nome arquivo>	-> Mostra o que foi adicionado ou removido do arquivo desde o último commit
 
 ## FLUXO DE TRABALHO
 1. Criar o diretório do projeto.
