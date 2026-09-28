@@ -1,1 +1,3 @@
-# Curso TMW Git & GitHub 2026
+# Curso TMW Git & GitHub
+
+Um curso para iniciantes.
